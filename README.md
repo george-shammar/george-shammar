@@ -4,7 +4,7 @@
 
 #### I'm a Nigerian living in the diaspora and also a Digital Nomad. I hope to have visited 20 countries by 2025.
 
-
+<hr>
 
 <!--
 **george-shammar/george-shammar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
