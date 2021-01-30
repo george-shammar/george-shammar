@@ -6,7 +6,10 @@
 
 <a href="https://www.linkedin.com/in/george-g-5414091b7/">
     <img src="https://img.shields.io/badge/george-g?style=for-the-badge&logo=linkedin&logoColor=blue" alt="linkedin badge">
-  </a>
+</a>
+<a href="https://twitter.com/GeorgeShammar">
+    <img src="https://img.shields.io/twitter/follow/GeorgeShammar?color=%231DA1F2&label=FOLLOW&logo=twitter&style=for-the-badge" alt="twitter badge">
+</a>
 
 <hr>
 
