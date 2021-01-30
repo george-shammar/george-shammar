@@ -4,6 +4,10 @@
 
 #### I'm a Nigerian living in the diaspora and also a Digital Nomad. I hope to have visited 20 countries by 2025.
 
+<a href="https://www.linkedin.com/in/george-g-5414091b7/">
+    <img src="https://img.shields.io/badge/george-g?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="linkedin badge">
+  </a>
+
 <hr>
 
 <h3 align = "center">
