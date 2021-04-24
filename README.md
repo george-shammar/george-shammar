@@ -2,7 +2,7 @@
 
 #### I find Software Development exciting and suiting my natural ability. I love to travel and I love football. When I'm not coding, I write tech-based articles on <a href= "https://www.codedli.com"> codedli.com</a> and <a href= "https://george-gbenle.medium.com"> medium.com</a>
 
-#### I'm a Nigerian living in the diaspora and also a Digital Nomad. I hope to have visited 20 countries by 2025.
+#### I'm a Nigerian living abroad and also a Digital Nomad. I hope to have visited 20 countries by 2025.
 <p align="center">
 <a href="https://www.linkedin.com/in/george-g-5414091b7/">
     <img src="https://img.shields.io/badge/george-g?style=for-the-badge&logo=linkedin&logoColor=blue" alt="linkedin badge">
