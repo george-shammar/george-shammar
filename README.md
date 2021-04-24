@@ -4,7 +4,7 @@
 
 #### I'm a Nigerian living abroad and also a Digital Nomad. I hope to have visited 20 countries by 2025.
 <p align="center">
-<a href="http://www.georgegbenle.me/" target="_blank"><img src="https://img.shields.io/badge/Portfolio?style=for-the-badge&logo" alt="portfolio badge"></a>
+<a href="http://www.georgegbenle.me/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-See my portfolio-orange" alt="portfolio badge"></a>
 <a href="https://www.linkedin.com/in/george-g-5414091b7/" target="_blank">
     <img src="https://img.shields.io/badge/george-g?style=for-the-badge&logo=linkedin&logoColor=blue" alt="linkedin badge">
 </a>
