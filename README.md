@@ -1,4 +1,4 @@
-#### Hi there 👋, my name is George. Welcome to my Github profile page. I'm a Full Stack Developer, having made a dramatic career switch after seven years in finance and the Banking Industry. 
+#### Hi there 👋, my name is George. Welcome to my Github profile page. I'm a Full Stack Software Engineer and Blockchain Developer and , having made a dramatic career switch after seven years in finance and the Banking Industry. 
 
 #### I find Software Development exciting and suiting my natural ability. I love to travel and I love football. When I'm not coding, I write tech-based articles on <a href= "https://www.codedli.com"> codedli.com</a> and <a href= "https://george-gbenle.medium.com"> medium.com</a>
 
