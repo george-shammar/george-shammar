@@ -1,24 +1,27 @@
 #### Hi there 👋, my name is George. Welcome to my Github profile page.
 
-#### Just so you're aware..... My comfort zone and I are currently not on speaking terms and I operate on the cutting edge of ‘it’ll probably work.’ hAHAHA.
-<p align="center"> <br>
-  <a href="http://www.georgegbenle.me/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-See my portfolio-orange" alt="portfolio badge"></a>
+#### Just so you're aware… my comfort zone and I are currently not on speaking terms, and I operate on the cutting edge of ‘it’ll probably work.’ hAHAHA.
+
+<p align="center">
+  <a href="http://www.georgegbenle.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-See%20my%20portfolio-orange?style=for-the-badge" alt="portfolio badge">
+  </a>
 </p>
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/george-g-5414091b7/" target="_blank">
-    <img src="https://img.shields.io/badge/george-g?style=for-the-badge&logo=linkedin&logoColor=blue" alt="linkedin badge">
-</a>
-<a href="https://twitter.com/GeorgeShammar" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/GeorgeShammar?color=%231DA1F2&label=FOLLOW&logo=twitter&style=for-the-badge" alt="twitter badge">
-</a>
-<a "https://medium.com/@george-gbenle" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-Follow-black?logo=medium&logoColor=white&style=for-the-badge">
-</a>
+  <a href="https://www.linkedin.com/in/george-g-5414091b7/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-George%20G-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge">
+  </a>
+  <a href="https://twitter.com/GeorgeShammar" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/GeorgeShammar?color=%231DA1F2&label=FOLLOW&logo=twitter&style=for-the-badge" alt="Twitter badge">
+  </a>
+  <a href="https://medium.com/@george-gbenle" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-Follow-black?logo=medium&logoColor=white&style=for-the-badge" alt="Medium badge">
+  </a>
 </p>
-  
+
 <hr>
+
 
 
 <!--
