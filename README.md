@@ -1,6 +1,6 @@
 #### Hi there 👋, my name is George. Welcome to my Github profile page.
 
-####My comfort zone and I are currently not on speaking terms and I operate on the cutting edge of ‘it’ll probably work.’ hAHAHA.
+#### Just so you're aware..... My comfort zone and I are currently not on speaking terms and I operate on the cutting edge of ‘it’ll probably work.’ hAHAHA.
 <p align="center"> <br>
   <a href="http://www.georgegbenle.me/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-See my portfolio-orange" alt="portfolio badge"></a>
 </p>
