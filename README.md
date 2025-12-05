@@ -1,6 +1,6 @@
-#### Hi there 👋, my name is George. Welcome to my Github profile page. I'm a Full Stack Software Engineer and Blockchain Developer.
+#### Hi there 👋, my name is George. Welcome to my Github profile page.
 
-#### I still have a bucket list of things I want to do and jumping out of a plane is one.
+####My comfort zone and I are currently not on speaking terms and I operate on the cutting edge of ‘it’ll probably work.’ hAHAHA.
 <p align="center"> <br>
   <a href="http://www.georgegbenle.me/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-See my portfolio-orange" alt="portfolio badge"></a>
 </p>
@@ -14,14 +14,6 @@
     <img src="https://img.shields.io/twitter/follow/GeorgeShammar?color=%231DA1F2&label=FOLLOW&logo=twitter&style=for-the-badge" alt="twitter badge">
 </a>
 </p>
-
-<hr>
-
-<h3 align = "center">
-  
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=george-shammar&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-  
-</h3>
   
 <hr>
 
